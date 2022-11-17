@@ -5,7 +5,15 @@ import {Politics} from './Politics';
 function App() {
 	return (
 		<div className="App">
-			<header className="App-header">
+			<header
+				style={{
+					backgroundColor: '#fff',
+					padding: 5,
+					marginTop: 50,
+					marginBottom: 50
+				}}
+				className="App-header"
+			>
 				<Politics />
 			</header>
 		</div>

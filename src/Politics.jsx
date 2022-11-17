@@ -3,7 +3,7 @@ import React from 'react';
 export const Politics = () => {
 	return (
 		<div style={{margin: 20, textAlign: 'justify'}}>
-			<h1>POLÍTICA DE PRIVACIDAD PARA enCarga</h1>
+			<h3 style={{textAlign: 'left'}}>POLÍTICA DE PRIVACIDAD PARA enCarga</h3>
 			Fecha última actualización: 18/07/2022
 			<p>
 				{' '}
